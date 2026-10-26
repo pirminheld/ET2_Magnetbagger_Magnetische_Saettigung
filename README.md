@@ -1,4 +1,4 @@
-# Magnetbagger: Was bringt mehr Strom?
+# Magnetbagger: Wie beeinflusst die Stromstärke die Flussdichte?
 Offline: index.html öffnen, alle Dateien zusammen lassen.
 Online: https://pirminheld.github.io/ET2_Magnetbagger_Magnetische_Saettigung/
 
