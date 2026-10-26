@@ -7,3 +7,5 @@ Die Werte sind didaktische Modelldaten, keine Messdaten eines realen Baggers.
 B(I) = 1,65 tanh(I/2,8) + 0,012 I, B in T, I in A.
 Keine Tragkraftberechnung, keine Hysterese. Die Kennlinie steigt auch im oberen Bereich weiter.
 Logo und Impressum aus der vorhandenen ET2-Seite übernommen. Baggergrafik als eigenes SVG erstellt.
+
+Werkstoffvergleich: A und B sind hypothetische didaktische Kernwerkstoffe, keine konkreten Handelswerkstoffe. B: B(I)=1,05 tanh(I/1,2)+0,012 I. Beide Kurven im selben Maßstab. Gespeicherte Messwerte bleiben beim Wechsel erhalten. Das Ausrichtungsmodell zeigt A.
